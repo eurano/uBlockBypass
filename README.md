@@ -2,7 +2,7 @@
 Manual for uBlock installation (Chrome) 
 
 1.Go to [https://github.com/gorhill/uBlock/tree/master/dist#install](https://github.com/gorhill/uBlock/releases)
-2. Download latest relase (file name ends with ".chromium.zip")
+2. Download latest relase (file name ends with ".chromium.zip") <br/>
 3. Unzip archive
 4. Rename the unzipped directory to ublock.
 
