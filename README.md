@@ -12,7 +12,7 @@ Manual for uBlock installation (Chrome)
 8. Relaunch Chrome
 9. In searchbar type "chrome://flags/" and press enter
 10. On top there is a search bar with "Search flags" hint text. Type "mv2" in that field.
-11. There will be results:
+11. There will be results: <br/>
  a)  Extension Manifest V2 Deprecation Warning Stage - set it to Disabled <br/>
  b)  Extension Manifest V2 Deprecation Disabled Stage - set it to Disabled <br/>
  c) Extension Manifest V2 Deprecation Unsupported Stage - set it to Disabled <br/>
