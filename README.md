@@ -7,17 +7,17 @@ Manual for uBlock installation (Chrome)
 4. Rename the unzipped directory to ublock.
 
 5. Open Chrome
-6. In searchbar type "chrome://flags/" and press enter
-7. Under "Temporarily unexpire M137 flags click enable
-8. Relaunch Chrome
-9. In searchbar type "chrome://flags/" and press enter
+6. In searchbar type "chrome://flags/" and press enter.
+7. Under "Temporarily unexpire M137 flags click enable.
+8. Relaunch Chrome.
+9. In searchbar type "chrome://flags/" and press enter.
 10. On top there is a search bar with "Search flags" hint text. Type "mv2" in that field.
 11. There will be results: <br/>
  a)  Extension Manifest V2 Deprecation Warning Stage - set it to Disabled <br/>
  b)  Extension Manifest V2 Deprecation Disabled Stage - set it to Disabled <br/>
  c) Extension Manifest V2 Deprecation Unsupported Stage - set it to Disabled <br/>
  d) Allow legacy extension manifest versions - leave it on Default or set it to Enabled if its not in Default mode already.
-12. Relaunch Chrome
+12. Relaunch Chrome.
 
 13. In Chrome click 3 dots to open menu and go to Extensions.
 14. Click to enable Developer mode.
