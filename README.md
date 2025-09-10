@@ -8,7 +8,7 @@ Manual for uBlock installation (Chrome)
 
 5. Open Chrome
 6. In searchbar type "chrome://flags/" and press enter.
-7. Under "Temporarily unexpire M137 flags click enable.
+7. Under "Temporarily unexpire M138 flags" click enable for each one - NOTE: if u cant find 138 try 139..140..141 etc this number is higher in each Chrome update.
 8. Relaunch Chrome.
 9. In searchbar type "chrome://flags/" and press enter.
 10. On top there is a search bar with "Search flags" hint text. Type "mv2" in that field.
