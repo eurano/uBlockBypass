@@ -15,7 +15,7 @@ Manual for uBlock installation (Chrome)
 11. There will be results: <br/>
  a)  Extension Manifest V2 Deprecation Warning Stage - set it to Disabled (NOT SHOWING AFTER NEWEST UPDATE)<br/>
  b)  Extension Manifest V2 Deprecation Disabled Stage - set it to Disabled (NOT SHOWING AFTER NEWEST UPDATE)<br/>
- c) Extension Manifest V2 Deprecation Unsupported Stage - set it to Disabled <br/>
+ c) Extension Manifest V2 Deprecation Unsupported Stage - set it to Disabled (NOT SHOWING AFTER NEWEST UPDATE)<br/>
  d) Allow legacy extension manifest versions - leave it on Default or set it to Enabled if its not in Default mode already.
 12. Relaunch Chrome.
 
