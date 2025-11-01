@@ -7,7 +7,7 @@ NEW METHOD:
 2. Download latest relase by expanding Assets section (correct file name ends with ".chromium.zip") <br/>
 3. Unzip archive. <br/>
 4. Rename the unzipped directory to ublock.
-5. Add this parameters to your Chrome exe shortcut:
+5. Add this parameters to your Chrome exe (C:\Program Files\Google\Chrome\Application):
 --disable-audio-output-resampler --disable-features=ExtensionManifestV2Unsupported,ExtensionManifestV2Disabled
 6. In Chrome click 3 dots to open menu and go to Extensions.
 7. Click to enable Developer mode.
