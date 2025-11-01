@@ -1,6 +1,25 @@
 # uBlockBypass
 Manual for uBlock installation (Chrome) 
 
+NEW METHOD: 
+
+1. Go to [https://github.com/gorhill/uBlock/tree/master/dist#install](https://github.com/gorhill/uBlock/releases) <br/>
+2. Download latest relase by expanding Assets section (correct file name ends with ".chromium.zip") <br/>
+3. Unzip archive. <br/>
+4. Rename the unzipped directory to ublock.
+5. Add this parameters to your Chrome exe shortcut:
+--disable-audio-output-resampler --disable-features=ExtensionManifestV2Unsupported,ExtensionManifestV2Disabled
+6. In Chrome click 3 dots to open menu and go to Extensions.
+7. Click to enable Developer mode.
+8. Click Load unpacked extension....
+9. In the file selector dialog:
+Select the ublock directory you created in 4.
+Click Open.
+
+The extension will now be available in your Chromium/Chromium-based browser.
+
+! OLD METHOD :
+
 1. Go to [https://github.com/gorhill/uBlock/tree/master/dist#install](https://github.com/gorhill/uBlock/releases) <br/>
 2. Download latest relase by expanding Assets section (correct file name ends with ".chromium.zip") <br/>
 3. Unzip archive. <br/>
